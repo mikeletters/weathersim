@@ -1,0 +1,13 @@
+Location,Position,Timezone,Zone
+Osaka,34.69:135.50:4,+0900,Cfa
+Tokyo,35.69:139.69:5,+0900,Cfa
+New York,40.73:-73.93:7,-0500,Cfa
+Beijing,39.93:116.39:44,+0800,Dwa
+Bethel,60.79:-161.79:1,-0800,Dfc
+Buenos Aires,-34.6:-58.38:25,-0300,Cfa
+N'Djamena,12.11:15.04:298,+0100,Bsh
+Cape Town,-33.92:18.42:30,+0200,Csb
+Coober Pedy,-29.01:134.75:193,+0930,BWh
+Nairobi,-1.29:36.85:2795,+0300,CWb
+Arkhangelsk,64.54:40.54:8,+0300,Dfc
+Yakutsk,62.04:129.68:126,+0900,Dfd
